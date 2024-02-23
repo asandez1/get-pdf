@@ -4,6 +4,11 @@ node server.js
 
 example call:  http://localhost:9900/get-pdf?name=neuralink.pdf
 
+**PDFs:**
+neuralink.pfd
+ts2068.pdf
+space.pdf
+
 **api GET get-pdf**
 ```
 {
